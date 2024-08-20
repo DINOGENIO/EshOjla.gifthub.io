@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Librería Esh Ojla</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <img src="http://www.eshojla.com/mnt/data/Logo Empresa Roberto Pirir 3BA.png" alt="Logo de Librería Esh Ojlá">
+        <h1>Librería Esh Ojla</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#nosotros">Nosotros</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="#interrogante">La Interrogante del Día</a></li>
+            </ul>
+        </nav>
+        <a href="https://wa.me/50212345678?text=%C2%BFTienes%20dudas%20sobre%20temas%20b%C3%ADblicos%3F%20En%C3%B3vianos%20tus%20preguntas%20y%20las%20responderemos%20en%20nuestra%20pr%C3%B3xima%20edici%C3%B3n.%20Puedes%20escribirnos%20a%20nuestro%20correo%3A%20dudasbiblicas%40gmail.com" class="whatsapp-link" target="_blank">Enviar WhatsApp</a>
+    </header>
+
+    <!-- Sección de inicio -->
+    <section id="inicio">
+        <h2>Bienvenidos a Librería Esh Ojla</h2>
+        <p>Tu tienda de confianza para todos tus productos bíblicos y espirituales.</p>
+    </section>
+
+    <!-- Sección de productos -->
+    <section id="productos">
+        <h2>Nuestros Productos</h2>
+
+        <!-- Apartado de Biblias -->
+        <h3>Biblias</h3>
+        <!-- Lista de productos de biblias -->
+        <!-- ... -->
+        
+        <!-- Apartado de Himnarios -->
+        <h3>Himnarios</h3>
+        <!-- Lista de productos de himnarios -->
+        <!-- ... -->
+
+        <!-- Apartado de Libros -->
+        <h3>Libros</h3>
+        <!-- Lista de productos de libros -->
+        <!-- ... -->
+    </section>
+
+    <!-- Sección sobre nosotros -->
+    <section id="nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>Librería Esh Ojla fue fundada en 1875...</p>
+    </section>
+
+    <!-- Sección de contacto -->
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Estamos ubicados en la Calle de la Paz, No. 123, Ciudad Fe, Mixco, Guatemala...</p>
+    </section>
+
+    <!-- Sección de la interrogante del día -->
+    <section id="interrogante">
+        <h2>La Interrogante del Día</h2>
+        <p>¿Tienes dudas sobre temas bíblicos? Envíanos tus preguntas...</p>
+    </section>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2024 Librería Esh Ojla. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
